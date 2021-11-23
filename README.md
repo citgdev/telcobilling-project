@@ -7,3 +7,10 @@ naka json format gehapun ang pagpasa og Data to DB
 
 
 For UI Theme lets use the Old Telco Billing UI Theme
+
+OLD Telco Billing Dev 
+http://192.168.10.251:8097/
+Username : GaringArmando
+Password : Default@123
+
+
