@@ -14,3 +14,8 @@ Username : GaringArmando
 Password : Default@123
 
 
+Ang new DB SA 192.168.10.251\MSSQL_2016
+DB NAME : ONE_TELCO_BILLING
+
+Function para Maka Connect sa SQL 
+LoginTELCO()
