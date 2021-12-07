@@ -19,3 +19,43 @@ DB NAME : ONE_TELCO_BILLING
 
 Function para Maka Connect sa SQL 
 LoginTELCO()
+
+# NOTES ;
+Use camel case for naming of functions ( JS , controller, Model ) 
+  Example : getProfiles() 
+  
+Format on Naming a function, starts with action word then Noun
+  Exampl get <= actionWord , Profiles <= Noun [ getProfiles() ]
+
+New Way of declaring functions 
+  // OLD WAY 
+  functionName : function(parameters) { 
+     // do something
+  }
+  
+  // New Way Use Arrow Functions 
+   functionName : ( param1, param2 ) => { 
+     // do something
+   }
+   
+  // Arrow Functions with 1 parameter 
+   functionName : param => { 
+     // do something
+   }
+   
+  // Arrow Functions without parameter 
+  functionName : () => { 
+     // do something
+   }
+
+ fetching attributes/value
+ 
+ // Old Way 
+  $(this).attr('data-something') / $(this).val()
+// New Way 
+  $(e.currentTarget).attr('data-something') / ( e.currentTarget).val()
+
+
+
+ 
+   
