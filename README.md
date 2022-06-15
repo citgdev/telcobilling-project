@@ -55,6 +55,19 @@ New Way of declaring functions
 // New Way 
   $(e.currentTarget).attr('data-something') / ( e.currentTarget).val()
 
+HTML Element Naming reference
+	* textarea 	= txt-description
+	* input	  	= in-firstname
+	* radio	  	= rd-gender
+	* select    	= sel-isstatus
+	* button   	= btn-save-transaction
+        * form      	= frm-login
+	* table	  	= tbl-item
+	* div        	= dv-holder-item
+	* array     	= arr-item
+
+
+
 
 
  
